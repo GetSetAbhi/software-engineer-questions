@@ -87,7 +87,7 @@ Here are the questions, good luck!
    **Answer 4**
    
    My favourite product is any app that provides the video calling functionality.
-   Whatsapp, Instagram, Google Duo etc. The reason these are my favourite product is that they have enabled
+   Whatsapp, Instagram, Google Duo etc. The reason these are my favourite is that they have enabled
    us to interact and see a person far away, or someone we haven't seen in a long time.
    During this time of pandemic while everyone is locked in their homes, these video calling apps have enabled us to
    connect with friends and family.
