@@ -83,6 +83,22 @@ Here are the questions, good luck!
 
 4. Tell us about one of your favorite products (physical or software) and one
    specific aspect that makes it truly great.
+   
+   **Answer 3**
+   
+   My favourite product is any app that provides the video calling functionality.
+   Whatsapp, Instagram, Google Duo etc. The reason these are my favourite product is that they have enabled
+   us to interact and see a person far away, or someone we haven't seen in a long time.
+   During this time of pandemic while everyone is locked in their homes, these video calling apps have enabled us to
+   connect with friends and family.
+   
+   And then there's the video conferencing apps like Microsoft teams and Zoom.
+   These apps have made collaboration whlie everyone is working from home.
+   Initially when lockdown had just begun, everyone was worried about how collaboration would take place
+   but these apps have made it possible. 
+   This pandemic also had a severe effect on job hunting. People in the IT world usually had to go on campus
+   of any particular company to attend interviews but that is now a thing of the past as such activities are now done on these
+   conferencing apps. In summary, these conferencing apps have made work from home possible.
 
 5. In this repo is a `data.json` file. It contains an imaginary example set
    of data a customer might need to migrate from one system to another. It's a
