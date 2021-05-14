@@ -54,6 +54,8 @@ Here are the questions, good luck!
    which enabled the e-commerce store to periodically update the information of products or update the product catalog with new products. I successfully developed that functionality
    and was applauded for my effort. That was the first time that I was able to singlehandedly develop a complete functionality as a professional software engineer.
    
+*****
+
 2. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
    on.
@@ -64,6 +66,8 @@ Here are the questions, good luck!
    I started working as a software engineer. I couldn't start investing early as I was learning to manage my finances but 
    now I've picked up on it. I am looking into the trends of Dogecoin due to the fact that Elon Musk has a personal interest in it.
    I am new in crypto trading but I am learning more about it every day. It's a new hobby i'm pursuing.
+
+*****
 
 3. Tell us about a technical book or article you read recently, why you liked
    it, and why we should read it.
@@ -100,6 +104,8 @@ Here are the questions, good luck!
    of any particular company to attend interviews but that is now a thing of the past as such activities are now done on these
    conferencing apps. In summary, these conferencing apps have made work from home possible.
 
+*****
+
 5. In this repo is a `data.json` file. It contains an imaginary example set
    of data a customer might need to migrate from one system to another. It's a
    JSON encoded array of objects. The customer understands some of the data
@@ -131,7 +137,7 @@ bac34
 
 If you have any questions about the coding questions, please let us know.
 
-**Answer 5**
+## Answer 5
    
    I have created a maven project for this coding assignment. Name of the project is '**syniti-assignment**'.
    Please look for that project in this repo only
