@@ -116,10 +116,6 @@ Here are the questions, good luck!
    not for validity or duplication testing (eg, two records may be identical
    but have different IDs).
    
-   **Answer 5**
-   
-   I have created a maven project for this coding assignment. Name of the project is 'assignment'.
-   Please look for that project in this repo only
 
 The output of the program should list the IDs of each invalid or duplicate
 record, one per line. In the case of duplicates, mark both.
@@ -134,3 +130,8 @@ bac34
 ```
 
 If you have any questions about the coding questions, please let us know.
+
+**Answer 5**
+   
+   I have created a maven project for this coding assignment. Name of the project is 'assignment'.
+   Please look for that project in this repo only
