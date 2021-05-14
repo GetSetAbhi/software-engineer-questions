@@ -85,6 +85,8 @@ Here are the questions, good luck!
    to help me understand long-term and short term crypto trading.
    You should read it if you are new to crypto investment and are looking to identify a strategy that suits you while investing in crypto currencies.
 
+*****
+
 4. Tell us about one of your favorite products (physical or software) and one
    specific aspect that makes it truly great.
    
