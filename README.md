@@ -67,6 +67,19 @@ Here are the questions, good luck!
 
 3. Tell us about a technical book or article you read recently, why you liked
    it, and why we should read it.
+   
+   **Answer 3**
+   
+   Technically, I've been looking to upskill a bit. I am a backend developer and I've mostly worked with the spring framework and microservices. 
+   I've been looking to upskill and become a full stack developer so started learning Angular framework.
+   I've only been reading angular related blogs to understand more about angular related things while developing small things to learn Angular.
+   There's nothing specific that I can recommend. I do recommend reading technical blogs for any technical thing that one is trying to learn and that is because
+   these technical blogs help us to understand better and tell us 'why is something, the way it is ?'. This is a question that comes up most of the time when we are learning 
+   something new.
+   
+   I am also pursuing crypto currency investment as a hobby and for the I came across an [article](https://www.dummies.com/personal-finance/investing/3-short-term-cryptocurrency-investing-time-frames/) 
+   to help me understand long-term and short term crypto trading.
+   You should read it if you are new to crypto investment and are looking to identify a strategy that suits you while investing in crypto currencies.
 
 4. Tell us about one of your favorite products (physical or software) and one
    specific aspect that makes it truly great.
