@@ -48,6 +48,11 @@ Here are the questions, good luck!
    I developed that app and called it MemeCanvas. 
    In Feb of 2017 I published that app on playstore and even created a promotional [video](https://www.youtube.com/watch?v=LrLTyvsW5H4) for it.
    
+   Another thing that I consider a professional achievement is when I was trusted by the client for which I was working as a developer 
+   to develop some functionality. It was in 2018 when I was working as a junior Software Developer and the Client was a leading bathroom accessory maker. 
+   They had an e-commerce store and I was part of the team that handled the development of the e-commerce store. At that time, I was trusted to develop a functionality
+   which enabled the e-commerce store to periodically update the information of products or update the product catalog with new products. I successfully developed that functionality
+   and was applauded for my effort. That was the first time that I was able to singlehandedly develop a complete functionality as a professional software engineer.
    
 2. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
