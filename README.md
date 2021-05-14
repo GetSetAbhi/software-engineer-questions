@@ -133,5 +133,5 @@ If you have any questions about the coding questions, please let us know.
 
 **Answer 5**
    
-   I have created a maven project for this coding assignment. Name of the project is 'assignment'.
+   I have created a maven project for this coding assignment. Name of the project is '**syniti-assignment**'.
    Please look for that project in this repo only
