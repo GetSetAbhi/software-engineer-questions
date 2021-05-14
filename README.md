@@ -57,6 +57,13 @@ Here are the questions, good luck!
 2. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
    on.
+   
+   **Answer 2**
+   
+   Recently, I have started looking into cryptocurrency investment. It was something that I had been looking to do ever since
+   I started working as a software engineer. I couldn't start investing early as I was learning to manage my finances but 
+   now I've picked up on it. I am looking into the trends of Dogecoin due to the fact that Elon Musk has a personal interest in it.
+   I am new in crypto trading but I am learning more about it every day. It's a new hobby i'm pursuing.
 
 3. Tell us about a technical book or article you read recently, why you liked
    it, and why we should read it.
