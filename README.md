@@ -142,4 +142,7 @@ If you have any questions about the coding questions, please let us know.
 ## Answer 5
    
    I have created a maven project for this coding assignment. Name of the project is '**syniti-assignment**'.
-   Please look for that project in this repo only
+   Please look for that project in this repo only.
+   
+   Please look for ***App.java*** inside package ***src/main/java -> com.code.syniti.assignment***
+   Test cases can be found in ***AppTest.java*** in inside package ***src/test/java -> com.code.syniti.assignment***

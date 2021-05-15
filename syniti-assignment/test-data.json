@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Test One",
+		"address": "",
+		"zip": "17565",
+		"id": "ea0c4"
+	},
+	{
+		"name": "",
+		"address": "",
+		"zip": "17565",
+		"id": "ea0c5"
+	},
+	{
+		"name": "Test two",
+		"address": "5037 Providence Bouled",
+		"zip": "44109",
+		"id": "8b322"
+	},
+	{
+		"name": "Duplicate",
+		"address": "1521 Gem Avenue",
+		"zip": "77701",
+		"id": "a6b3b"
+	},
+	{
+		"name": "",
+		"address": "",
+		"zip": "",
+		"id": "a6b3c"
+	},
+	{
+		"name": "Duplicate",
+		"address": "1521 Gem Avenue",
+		"zip": "77701",
+		"id": "a6b3d"
+	},
+	{
+		"address": "One Infinite Loop",
+		"zip": "12345",
+		"id": "a6b3f"
+	}
+]
